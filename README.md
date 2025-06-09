@@ -12,12 +12,12 @@ Click any marker to see PFAS details in a sidebar
 No login or authentication required
 
 Getting Started
-bash
+``bash
 git clone https://github.com/yourusername/pfas-india-map.git
 cd pfas-india-map
 npm install
 npm run dev
-Open http://localhost:5173 in your browser.
+Open http://localhost:5173 in your browser.``
 
 Project Structure
 src/components/ — LandingPage, MapPage, Sidebar

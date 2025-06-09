@@ -66,7 +66,7 @@ function MapPage({ onGoBack }) {
         onClick={onGoBack}
         style={{
           position: "absolute",
-          top: 20,
+          top: 500,
           left: 20,
           zIndex: 2000,
           background: "#1976d2",

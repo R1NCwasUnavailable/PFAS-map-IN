@@ -175,5 +175,159 @@
       "status": "Exceeds safety standards"
     },
     "source": "Maharashtra Water Quality Assessment 2024"
+  },
+  {
+    "id": 9,
+    "name": "Yamuna River - Delhi",
+    "position": [28.7041, 77.1025],
+    "pfasLevels": {
+      "PFOA": 4.8,
+      "PFOS": 7.3,
+      "PFBS": 14.5,
+      "PFHxS": 11.2,
+      "PFNA": 3.9
+    },
+    "riskLevel": "High",
+    "waterSource": "River Water",
+    "populationAffected": "~20 million",
+    "lastTested": "2025",
+    "epaComparison": {
+      "PFOA": "240x higher than EPA limit",
+      "PFOS": "365x higher than EPA limit",
+      "status": "Critical contamination"
+    },
+    "source": "CPCB Report 2025, Times of India 2025"
+  },
+  {
+    "id": 10,
+    "name": "Noyyal River - Tiruppur",
+    "position": [11.1077, 77.3398],
+    "pfasLevels": {
+      "PFOA": 93.0,
+      "PFOS": 29.0,
+      "PFBS": 45.6,
+      "PFHxS": 32.1,
+      "PFNA": 10.8
+    },
+    "riskLevel": "Critical",
+    "waterSource": "River Water",
+    "populationAffected": "~1.2 million",
+    "lastTested": "2024",
+    "epaComparison": {
+      "PFOA": "4,650x higher than EPA limit",
+      "PFOS": "1,450x higher than EPA limit",
+      "status": "Extreme contamination"
+    },
+    "source": "IIT Madras Study, Environmental Sciences Europe 2024"
+  },
+  {
+    "id": 11,
+    "name": "Gomti River - Lucknow",
+    "position": [26.8467, 80.9462],
+    "pfasLevels": {
+      "PFOA": 3.2,
+      "PFOS": 5.1,
+      "PFBS": 12.7,
+      "PFHxA": 7.4,
+      "PFNA": 2.3
+    },
+    "riskLevel": "Moderate",
+    "waterSource": "River Water",
+    "populationAffected": "~4.5 million",
+    "lastTested": "2023",
+    "epaComparison": {
+      "PFOA": "160x higher than EPA limit",
+      "PFOS": "255x higher than EPA limit",
+      "status": "Above safe levels"
+    },
+    "source": "NEERI Study 2023"
+  },
+  {
+    "id": 12,
+    "name": "Sundarbans Mangrove",
+    "position": [21.9497, 88.9401],
+    "pfasLevels": {
+      "PFOA": 11.61,
+      "PFOS": 2.8,
+      "PFBS": 5.4,
+      "PFHxS": 3.7,
+      "PFNA": 1.9
+    },
+    "riskLevel": "Moderate",
+    "waterSource": "Coastal Water",
+    "populationAffected": "~1 million",
+    "lastTested": "2024",
+    "epaComparison": {
+      "PFOA": "580x higher than EPA limit",
+      "PFOS": "140x higher than EPA limit",
+      "status": "Contamination detected"
+    },
+    "source": "UNESCO Report 2024"
+  },
+  {
+    "id": 13,
+    "name": "Hugli River - Kolkata",
+    "position": [22.5726, 88.3639],
+    "pfasLevels": {
+      "PFOA": 2.7,
+      "PFOS": 4.9,
+      "PFBS": 9.8,
+      "PFHxA": 5.2,
+      "PFNA": 1.7
+    },
+    "riskLevel": "High",
+    "waterSource": "River Water",
+    "populationAffected": "~15 million",
+    "lastTested": "2024",
+    "epaComparison": {
+      "PFOA": "135x higher than EPA limit",
+      "PFOS": "245x higher than EPA limit",
+      "status": "Significant contamination"
+    },
+    "source": "West Bengal Pollution Control Board 2024"
+  },
+  {
+    "id": 14,
+    "name": "Velachery Lake - Chennai",
+    "position": [12.9878, 80.2164],
+    "pfasLevels": {
+      "PFOA": 23.0,
+      "PFOS": 8.4,
+      "PFBS": 42.3,
+      "PFHxS": 27.6,
+      "PFNA": 9.1
+    },
+    "riskLevel": "High",
+    "waterSource": "Lake Water",
+    "populationAffected": "~500,000",
+    "lastTested": "2024",
+    "epaComparison": {
+      "PFOA": "1,150x higher than EPA limit",
+      "PFOS": "420x higher than EPA limit",
+      "status": "Exceeds safety standards"
+    },
+    "source": "NGT Report 2024"
+  },
+  {
+    "id": 15,
+    "name": "Cauvery River - Karnataka",
+    "position": [12.2958, 76.6394],
+    "pfasLevels": {
+      "PFOA": 1.5,
+      "PFOS": 3.8,
+      "PFBS": 14.2,
+      "PFHxA": 8.9,
+      "PFNA": 2.6
+    },
+    "riskLevel": "Moderate",
+    "waterSource": "River Water",
+    "populationAffected": "~10 million",
+    "lastTested": "2023",
+    "epaComparison": {
+      "PFOA": "75x higher than EPA limit",
+      "PFOS": "190x higher than EPA limit",
+      "status": "Contamination present"
+    },
+    "source": "Karnataka State Pollution Control Board 2023"
   }
 ]

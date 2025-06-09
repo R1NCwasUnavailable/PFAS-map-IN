@@ -1,0 +1,16 @@
+.hero {
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
+              url('https://images.unsplash.com/photo-1610374792793-f016b77ca51a') center/cover;
+  color: white;
+  padding: 4rem 2rem;
+}
+
+.content-section {
+  padding: 4rem 0;
+}
+
+.timeline-item {
+  border-left: 3px solid #2196F3;
+  padding-left: 2rem;
+  margin: 2rem 0;
+}

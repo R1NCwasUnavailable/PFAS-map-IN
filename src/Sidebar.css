@@ -1,0 +1,16 @@
+.sidebar-content {
+  padding: 1rem;
+  overflow-y: auto;
+  height: calc(100% - 60px);
+}
+
+.pfas-levels {
+  margin: 1rem 0;
+}
+
+.concentration-bar {
+  height: 8px;
+  background: #eee;
+  border-radius: 4px;
+  margin: 0.5rem 0;
+}

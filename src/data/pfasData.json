@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "name": "Chennai - Chembarambakkam Lake",
+    "position": [
+      13.0827,
+      80.2707
+    ],
+    "pfasLevels": {
+      "PFOA": 1.2,
+      "PFOS": 29.0,
+      "PFBS": 136.27,
+      "PFHxS": 81.0,
+      "PFNA": 12.5
+    },
+    "riskLevel": "Critical",
+    "waterSource": "Lake/Treated Water",
+    "populationAffected": "~2.5 million",
+    "lastTested": "2024",
+    "epaComparison": {
+      "PFOA": "60x higher than EPA limit",
+      "PFOS": "1,450x higher than EPA limit",
+      "PFBS": "Well within EPA limit",
+      "status": "Exceeds safe levels"
+    },
+    "source": "IIT Madras Study, Economic Times 2024"
+  },
+  {
+    "id": 2,
+    "name": "Chennai - Perungudi Dumpyard",
+    "position": [
+      12.9279,
+      80.2379
+    ],
+    "pfasLevels": {
+      "PFOA": 0.8,
+      "PFOS": 2.72,
+      "PFBS": 71.41,
+      "PFHxS": 23.4,
+      "PFNA": 8.2
+    },
+    "riskLevel": "High",
+    "waterSource": "Groundwater",
+    "populationAffected": "~100,000",
+    "lastTested": "2024",
+    "epaComparison": {
+      "PFOA": "40x higher than EPA limit",
+      "PFOS": "136x higher than EPA limit",
+      "status": "Significantly exceeds safe levels"
+    },
+    "source": "IIT Madras Study, Environmental Sciences Europe 2024"
+  },
+  {
+    "id": 3,
+    "name": "Chennai - Adyar River",
+    "position": [
+      13.0067,
+      80.2206
+    ],
+    "pfasLevels": {
+      "PFOA": 2.1,
+      "PFOS": 15.8,
+      "PFBS": 89.3,
+      "PFHxS": 34.7,
+      "PFNA": 6.9
+    },
+    "riskLevel": "High",
+    "waterSource": "River Water",
+    "populationAffected": "~1.8 million",
+    "lastTested": "2024",
+    "epaComparison": {
+      "PFOA": "105x higher than EPA limit",
+      "PFOS": "790x higher than EPA limit",
+      "status": "Critical contamination levels"
+    },
+    "source": "IIT Madras Study, Down to Earth 2024"
+  },
+  {
+    "id": 4,
+    "name": "Assam - Kamrup Region",
+    "position": [
+      26.1833,
+      91.7333
+    ],
+    "pfasLevels": {
+      "PFOA": 0.6,
+      "PFOS": 1.8,
+      "PFBS": 12.4,
+      "PFHxA": 8.9,
+      "PFNA": 3.2
+    },
+    "riskLevel": "Moderate",
+    "waterSource": "Groundwater",
+    "populationAffected": "~500,000",
+    "lastTested": "2024",
+    "epaComparison": {
+      "PFOA": "30x higher than EPA limit",
+      "PFOS": "90x higher than EPA limit",
+      "status": "Above safe levels"
+    },
+    "source": "RSC Environmental Monitoring Study 2024"
+  },
+  {
+    "id": 5,
+    "name": "Ganges River - Kanpur",
+    "position": [
+      26.4499,
+      80.3319
+    ],
+    "pfasLevels": {
+      "PFOA": 4.2,
+      "PFOS": 8.7,
+      "PFBS": 10.2,
+      "PFHxA": 4.7,
+      "PFNA": 2.1
+    },
+    "riskLevel": "High",
+    "waterSource": "River Water",
+    "populationAffected": "~3 million",
+    "lastTested": "2023",
+    "epaComparison": {
+      "PFOA": "210x higher than EPA limit",
+      "PFOS": "435x higher than EPA limit",
+      "status": "Significantly contaminated"
+    },
+    "source": "Ganges River Basin Study, TERIIN 2023"
+  },
+  {
+    "id": 6,
+    "name": "Ganges River - Patna",
+    "position": [
+      25.5941,
+      85.1376
+    ],
+    "pfasLevels": {
+      "PFOA": 3.8,
+      "PFOS": 6.2,
+      "PFBS": 8.9,
+      "PFHxA": 3.1,
+      "PFNA": 1.9
+    },
+    "riskLevel": "High",
+    "waterSource": "River Water",
+    "populationAffected": "~2.5 million",
+    "lastTested": "2023",
+    "epaComparison": {
+      "PFOA": "190x higher than EPA limit",
+      "PFOS": "310x higher than EPA limit",
+      "status": "Above critical levels"
+    },
+    "source": "Environmental Science & Pollution Research 2023"
+  },
+  {
+    "id": 7,
+    "name": "Bengaluru - Cauvery Basin",
+    "position": [
+      12.9716,
+      77.5946
+    ],
+    "pfasLevels": {
+      "PFOA": 1.8,
+      "PFOS": 4.1,
+      "PFBS": 15.7,
+      "PFHxS": 12.3,
+      "PFNA": 2.8
+    },
+    "riskLevel": "Moderate",
+    "waterSource": "Groundwater/Surface Water",
+    "populationAffected": "~12 million",
+    "lastTested": "2025",
+    "epaComparison": {
+      "PFOA": "90x higher than EPA limit",
+      "PFOS": "205x higher than EPA limit",
+      "status": "Contamination detected"
+    },
+    "source": "BGS-IISc-UKCEH Joint Study 2025"
+  },
+  {
+    "id": 8,
+    "name": "Mumbai - Thane Creek",
+    "position": [
+      19.2183,
+      72.9781
+    ],
+    "pfasLevels": {
+      "PFOA": 2.4,
+      "PFOS": 5.8,
+      "PFBS": 18.2,
+      "PFHxS": 14.6,
+      "PFNA": 3.7
+    },
+    "riskLevel": "High",
+    "waterSource": "Coastal Water",
+    "populationAffected": "~20 million",
+    "lastTested": "2024",
+    "epaComparison": {
+      "PFOA": "120x higher than EPA limit",
+      "PFOS": "290x higher than EPA limit",
+      "status": "Exceeds safety standards"
+    },
+    "source": "Maharashtra Water Quality Assessment 2024"
+  }
+]

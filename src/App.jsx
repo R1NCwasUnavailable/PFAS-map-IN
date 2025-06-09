@@ -10,7 +10,7 @@ function App() {
       {!showMap ? (
         <LandingPage onExploreMap={() => setShowMap(true)} />
       ) : (
-        <MapPage />
+        <MapPage onGoBack={() => setShowMap(false)} />
       )}
     </div>
   );

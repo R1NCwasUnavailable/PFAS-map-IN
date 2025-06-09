@@ -1,16 +1,45 @@
 .sidebar-content {
-  padding: 1rem;
+  background: #fff;
+  color: #222;
+  width: 320px;
+  height: 100vh;
+  box-shadow: -2px 0 8px rgba(0,0,0,0.05);
+  border-left: 1px solid #eee;
+  padding: 1.5rem 1rem 1rem 1.5rem;
   overflow-y: auto;
-  height: calc(100% - 60px);
+  position: relative;
+  z-index: 1000;
+}
+
+.sidebar-close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  background: #eee;
+  border: none;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  font-size: 20px;
+  cursor: pointer;
+  color: #333;
+  transition: background 0.2s;
+}
+
+.sidebar-close:hover {
+  background: #ddd;
 }
 
 .pfas-levels {
   margin: 1rem 0;
+  padding-left: 1rem;
 }
 
-.concentration-bar {
-  height: 8px;
-  background: #eee;
-  border-radius: 4px;
-  margin: 0.5rem 0;
+.sidebar-content h2 {
+  margin-top: 0;
+}
+
+.sidebar-content ul {
+  margin: 0.5rem 0 1rem 0;
+  padding-left: 1.2rem;
 }

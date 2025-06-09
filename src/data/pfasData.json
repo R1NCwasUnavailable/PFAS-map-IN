@@ -2,10 +2,7 @@
   {
     "id": 1,
     "name": "Chennai - Chembarambakkam Lake",
-    "position": [
-      13.0827,
-      80.2707
-    ],
+    "position": [13.0827, 80.2707],
     "pfasLevels": {
       "PFOA": 1.2,
       "PFOS": 29.0,
@@ -28,10 +25,7 @@
   {
     "id": 2,
     "name": "Chennai - Perungudi Dumpyard",
-    "position": [
-      12.9279,
-      80.2379
-    ],
+    "position": [12.9279, 80.2379],
     "pfasLevels": {
       "PFOA": 0.8,
       "PFOS": 2.72,
@@ -53,10 +47,7 @@
   {
     "id": 3,
     "name": "Chennai - Adyar River",
-    "position": [
-      13.0067,
-      80.2206
-    ],
+    "position": [13.0067, 80.2206],
     "pfasLevels": {
       "PFOA": 2.1,
       "PFOS": 15.8,
@@ -78,10 +69,7 @@
   {
     "id": 4,
     "name": "Assam - Kamrup Region",
-    "position": [
-      26.1833,
-      91.7333
-    ],
+    "position": [26.1833, 91.7333],
     "pfasLevels": {
       "PFOA": 0.6,
       "PFOS": 1.8,
@@ -103,10 +91,7 @@
   {
     "id": 5,
     "name": "Ganges River - Kanpur",
-    "position": [
-      26.4499,
-      80.3319
-    ],
+    "position": [26.4499, 80.3319],
     "pfasLevels": {
       "PFOA": 4.2,
       "PFOS": 8.7,
@@ -128,10 +113,7 @@
   {
     "id": 6,
     "name": "Ganges River - Patna",
-    "position": [
-      25.5941,
-      85.1376
-    ],
+    "position": [25.5941, 85.1376],
     "pfasLevels": {
       "PFOA": 3.8,
       "PFOS": 6.2,
@@ -153,10 +135,7 @@
   {
     "id": 7,
     "name": "Bengaluru - Cauvery Basin",
-    "position": [
-      12.9716,
-      77.5946
-    ],
+    "position": [12.9716, 77.5946],
     "pfasLevels": {
       "PFOA": 1.8,
       "PFOS": 4.1,
@@ -178,10 +157,7 @@
   {
     "id": 8,
     "name": "Mumbai - Thane Creek",
-    "position": [
-      19.2183,
-      72.9781
-    ],
+    "position": [19.2183, 72.9781],
     "pfasLevels": {
       "PFOA": 2.4,
       "PFOS": 5.8,

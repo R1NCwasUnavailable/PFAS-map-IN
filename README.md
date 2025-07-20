@@ -29,6 +29,7 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 ---
 
 ## Project Structure
+```
 pfas-india-map/
 ├── public/
 │   └── ... # (static assets, optional Netlify redirect files)
@@ -45,8 +46,7 @@ pfas-india-map/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
----
+```
 
 ## Data Source
 

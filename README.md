@@ -29,24 +29,22 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 ---
 
 ## Project Structure
-
 pfas-india-map/
 ├── public/
-│ └── ...
+│   └── ... # (static assets, optional Netlify redirect files)
 ├── src/
-│ ├── App.jsx
-│ ├── main.jsx
-│ ├── index.css
-│ ├── components/
-│ │ ├── LandingPage.jsx
-│ │ ├── MapPage.jsx
-│ │ └── Sidebar.jsx
-│ └── data/
-│ └── pfasData.json
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── index.css
+│   ├── components/
+│   │   ├── LandingPage.jsx
+│   │   ├── MapPage.jsx
+│   │   └── Sidebar.jsx
+│   └── data/
+│       └── pfasData.json
 ├── package.json
 ├── vite.config.js
 └── README.md
-
 
 ---
 
